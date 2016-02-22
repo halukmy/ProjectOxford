@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="ProjectOxford/ProjectOxford.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjectOxford/VisionX.cs">
+    <Files>
+      <File FileName="ProjectOxford/VisionHelper.cs" Line="189" Column="1" NotebookId="1" />
+      <File FileName="ProjectOxford/d.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="ProjectOxford/VisionX.cs" Line="24" Column="16" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="386" Y="23" Width="1054" Height="851">
+        <Files>
+          <File FileName="ProjectOxford/MainActivity.cs" Line="23" Column="7" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/haluk/Projects/ProjectOxford/ProjectOxford/MainActivity.cs" line="94" column="29" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ProjectOxford PreferredExecutionTarget="Android.192.168.56.101:5555" />
+</Properties>

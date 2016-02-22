@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectOxford", "ProjectOxford\ProjectOxford.csproj", "{FEAF4873-E5B5-4503-9F75-829124175552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEAF4873-E5B5-4503-9F75-829124175552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEAF4873-E5B5-4503-9F75-829124175552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEAF4873-E5B5-4503-9F75-829124175552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEAF4873-E5B5-4503-9F75-829124175552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Users/haluk/Projects/ProjectOxford/ProjectOxford/obj/Debug/__library_projects__/Xamarin.Insights/library_project_imports/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Users/haluk/Projects/ProjectOxford/ProjectOxford/obj/Debug/__library_projects__/RestSharp/library_project_imports/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>/Users/haluk/Projects/ProjectOxford/ProjectOxford/obj/Debug/__library_projects__/Xamarin.Insights/library_project_imports/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>/Users/haluk/Projects/ProjectOxford/ProjectOxford/obj/Debug/__library_projects__/RestSharp/library_project_imports/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Users/haluk/Projects/ProjectOxford/ProjectOxford/obj/Debug/__library_projects__/Xamarin.Insights.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Users/haluk/Projects/ProjectOxford/ProjectOxford/obj/Debug/__library_projects__/RestSharp.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>
